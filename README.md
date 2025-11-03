@@ -1,0 +1,1 @@
+O código está implementando o algoritmo Apriori, muito usado em Análise de Cesta de Compras (Market Basket Analysis) para descobrir regras de associação entre itens que costumam aparecer juntos em transações (como produtos em um supermercado).
